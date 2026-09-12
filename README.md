@@ -14,22 +14,30 @@
 
 ### 🎀 Sobre mí
 
-* ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
-* ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
-* ( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
+ ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
+ ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
+( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
 
 </div>
 
 
 ---
 
+<div align="center">
+
 ### 🛠️ Lenguajes & Herramientas
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5/CSS3-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-FFB6C1?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
