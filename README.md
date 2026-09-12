@@ -2,6 +2,8 @@
   <img src="https://i.ibb.co/7Jgmhjkd/Estrella.png" alt="Decoración myscarllet" width="80%" />
 </div>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Jenniffer+/+Ruseffit;Bienvenida+al+universo+myscarllet;Desarrolladora+de+software+soft;Amante+de+la+IA+y+backend/frontend;IInvestigadora+de+ML+%26+Ciberseguridad;Creando+proyectos+con+vibe+coquette" alt="Typing SVG" />
 </p>
@@ -14,7 +16,9 @@
 
 ---
 
-
+<p align="left">
+<img src="https://64.media.tumblr.com/b7c27b60c1b8da52d45435f9abd6c62b/309bc966b28264f5-98/s2048x3072/ed8f3b7cf2b6fe4ca8e31edfb316598d741976e7.gifv"/>
+</p> 
 <div align="center">
 <div align="center">
 
