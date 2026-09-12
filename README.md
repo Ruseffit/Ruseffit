@@ -10,11 +10,16 @@
 
 ---
 
+<div align="center">
+
 ### 🎀 Sobre mí
-* 🎓 Estudiante de **Ingeniería de Sistemas** en Lima, Perú.
-* 🎨 **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
-* 💻 Backend & Frontend usando **Node.js** y desarrollo web.
-* 🔭 Desarrollando **ComuniAlerta** (sistema de seguridad ciudadana).
+
+* ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** en Lima, Perú.
+* ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
+* ( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
+
+</div>
+
 
 ---
 
