@@ -1,6 +1,6 @@
 ## Hii, Ruseffit 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Jenn/Rouse;Bienvenida+al+universo+myscarllet;Desarrolladora+Coquette;Amante+de+la+IA+y+Ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Jenniffer/;Bienvenida+al+universo+myscarllet;Desarrolladora+Coquette;Amante+de+la+IA+y+backed" alt="Typing SVG" />
 </p>
 
 <p align="center">
