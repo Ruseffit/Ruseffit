@@ -40,8 +40,12 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://i.ibb.co/MyGmmgTf/malla.png" alt="Decoración myscarllet" width="80%" />
+</div>
 
 <div align="center">
+  
 
 ### 🌐 Mis Cuentas
 
@@ -58,3 +62,4 @@
 <div align="center">
   <img src="https://i.ibb.co/DPDtJQW9/hilos.png" alt="Decoración myscarllet" width="80%" />
 </div>
+
