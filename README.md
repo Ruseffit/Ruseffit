@@ -1,25 +1,39 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Jenniffer+/+Ruseffit;Bienvenida+al+universo+myscarllet;Desarrolladora+de+software+soft;Amante+de+la+IA+y+backend/frontend;Investigadora+de+ML+%26+Ciberseguridad;Creando+proyectos+con+vibe+coquette" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/1U73ZmqxgIwNfoA5Y47gou?si=d9ea78bb509c412b">
-    <img src="https://img.shields.io/badge/🎧_Mi_Playlist_para_Programar-Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+    <img src="https://img.shields.io/badge/🎧_Mi_Playlist_Fav-Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
-<!--
-**Ruseffit/Ruseffit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎀 Sobre mí
+* 🎓 Estudiante de **Ingeniería de Sistemas** en Lima, Perú.
+* 🎨 **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
+* 💻 Backend & Frontend usando **Node.js** y desarrollo web.
+* 🔭 Desarrollando **ComuniAlerta** (sistema de seguridad ciudadana).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lenguajes & Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5/CSS3-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-FFB6C1?style=for-the-badge&logo=figma&logoColor=black" />
+</p>
+
+---
+
+### 🌐 Mis Cuentas
+<p align="left">
+  <a href="https://github.com/myscarllet">
+    <img src="https://img.shields.io/badge/GitHub-myscarllet-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/myscarllet">
+    <img src="https://img.shields.io/badge/Pinterest-myscarllet-FFB6C1?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</p>
