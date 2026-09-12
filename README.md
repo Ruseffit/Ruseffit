@@ -62,8 +62,8 @@
   </a>
 </p>
 
-</div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/9890066ddf8e6ca30d81854be620338d/9b59838bad404b49-38/s2048x3072/9dfed39db6ed64697f4f0cfdc653e20484d9cc02.pnj alt="Decoración myscarllet" width="80%" />
+  <img src="https://64.media.tumblr.com/9890066ddf8e6ca30d81854be620338d/9b59838bad404b49-38/s2048x3072/9dfed39db6ed64697f4f0cfdc653e20484d9cc02.pnj" alt="Decoración myscarllet" width="80%" />
 </div>
+
 
