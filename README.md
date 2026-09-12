@@ -14,7 +14,7 @@
 
 ### 🎀 Sobre mí
 
-* ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** en Lima, Perú.
+* ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
 * ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
 * ( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
 
@@ -33,8 +33,11 @@
 
 ---
 
+<div align="center">
+
 ### 🌐 Mis Cuentas
-<p align="left">
+
+<p>
   <a href="https://github.com/myscarllet">
     <img src="https://img.shields.io/badge/GitHub-myscarllet-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -42,3 +45,5 @@
     <img src="https://img.shields.io/badge/Pinterest-myscarllet-FFB6C1?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
 </p>
+
+</div>
