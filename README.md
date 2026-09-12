@@ -25,7 +25,7 @@
 <div align="center">
 <div align="center">
 
-### 🎀 Sobre mí
+### Sobre mí  ꨄ︎
 
 * ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
 * ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
