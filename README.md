@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/1U73ZmqxgIwNfoA5Y47gou?si=d9ea78bb509c412b">
+    <img src="https://img.shields.io/badge/🎧_Mi_Playlist_para_Programar-Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</p>
+
 <!--
 **Ruseffit/Ruseffit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
