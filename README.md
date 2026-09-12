@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<a href="https://pinterest.com/myscarllet">
-  <img src="https://img.shields.io/badge/Pinterest-myscarllet-FF69B4?style=for-the-badge&logo=pinterest&logoColor=white" />
-</a>
-
 <p align="center">
   <a href="https://open.spotify.com/playlist/1U73ZmqxgIwNfoA5Y47gou?si=d9ea78bb509c412b">
     <img src="https://img.shields.io/badge/🎧_Mi_Playlist_para_Programar-Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
