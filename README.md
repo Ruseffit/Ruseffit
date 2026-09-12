@@ -9,7 +9,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://i.ibb.co/MyGmmgTf/malla.png" alt="Decoración myscarllet" width="80%" />
+</div>
 
+<div align="center">
 <div align="center">
 
 ### 🎀 Sobre mí
@@ -40,11 +44,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://i.ibb.co/MyGmmgTf/malla.png" alt="Decoración myscarllet" width="80%" />
-</div>
-
-<div align="center">
   
 
 ### 🌐 Mis Cuentas
