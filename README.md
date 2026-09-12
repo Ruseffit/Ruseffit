@@ -14,9 +14,9 @@
 
 ### 🎀 Sobre mí
 
- ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
- ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
-( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
+* ( ੭ ˙ᗜ˙ )੭ Estudiante de **Ingeniería de Sistemas** 24/7 online.
+* ( 🎨 ˶ˆ꒳ˆ˵ ) **Desarrolladora & Diseñadora Independiente:** Creando soluciones enfocadas en necesidades reales y diseño con linda experiencia de usuario.
+* ( 💻 ∩´∀`∩ ) Backend & Frontend usando **Node.js** y desarrollo web.
 
 </div>
 
