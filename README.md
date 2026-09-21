@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/7Jgmhjkd/Estrella.png" alt="Decoración myscarllet" width="80%" />
-</div>
+
 
 
 
